@@ -1,2 +1,2 @@
 # Python_projects
-Python code for the Gomoku game and the semantic descriptor 
+Python code for a Gomoku game and a semantic descriptor. 
