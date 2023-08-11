@@ -1,5 +1,10 @@
 # Python_projects
-Python code to play against a computer Gomoku game and an AI semantic descriptor that can assess the semantic similarity between two words. 
+
+## Project 1: Gomouku game
+Play a game of Gomoku against a computer 
+
+## Project 2: Semantic descriptor
+Assess the semantic similarity between two words. 
 
 
 
